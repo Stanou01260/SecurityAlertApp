@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Security Alert</string>
+    <string name="button_save_text">Save Images</string>
+    <string name="button_update">Update Parameters</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
